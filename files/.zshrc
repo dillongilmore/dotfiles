@@ -41,7 +41,7 @@ export PATH="/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/
 export PKG_CONFIG_PATH="/usr/local:/usr/local/lib:/usr/local/include:$PATH"
 
 # Java stuff
-export PATH="/user/share/idea-UI/bin:$PATH"
+export PATH="/usr/share/idea-IU/bin:$PATH"
 
 # Perl stuff
 export PERL_LOCAL_LIB_ROOT="/home/dillon/perl5"
