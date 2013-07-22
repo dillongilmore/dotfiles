@@ -1,0 +1,39 @@
+[submodule "files/.vim/bundle/ack.vim"]
+	path = files/.vim/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "files/.vim/bundle/closetag.vim"]
+	path = files/.vim/bundle/closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim.git
+[submodule "files/.vim/bundle/nerdcommenter"]
+	path = files/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "files/.vim/bundle/nerdtree"]
+	path = files/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "files/.vim/bundle/php-doc.vim"]
+	path = files/.vim/bundle/php-doc.vim
+	url = https://github.com/justinrainbow/php-doc.vim.git
+[submodule "files/.vim/bundle/syntastic"]
+	path = files/.vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "files/.vim/bundle/tabular"]
+	path = files/.vim/bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "files/.vim/bundle/tagbar"]
+	path = files/.vim/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "files/.vim/bundle/tagbar-phpctags"]
+	path = files/.vim/bundle/tagbar-phpctags
+	url = https://github.com/vim-scripts/tagbar-phpctags.git
+[submodule "files/.vim/bundle/vim-fugitive"]
+	path = files/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "files/.vim/bundle/vim-puppet"]
+	path = files/.vim/bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "files/.vim/bundle/vim-rooter"]
+	path = files/.vim/bundle/vim-rooter
+	url = https://github.com/airblade/vim-rooter.git
+[submodule "files/.vim/bundle/vim-surround"]
+	path = files/.vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
