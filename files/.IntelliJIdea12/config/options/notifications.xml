@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Grape" />
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Notification group display Id" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="Git Minor Notifications" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
-    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Android Property Files Updating" />
+    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
+    <notification groupId="Framework Detection" />
     <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Groovy DSL errors" />
+    <notification groupId="ideavim" />
     <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Git Messages" />
     <toolWindow group="External Executable Critical Failures" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="PHP Debugger" />
   </component>
 </application>
 

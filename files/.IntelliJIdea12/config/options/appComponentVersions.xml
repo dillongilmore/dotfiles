@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="DimensionService" version="1362369490197" />
-  <component name="PluginManagerConfigurable" version="1362369490204" />
+  <component name="AppserversManager" version="1381878876927" />
+  <component name="CodeOutlinePlugin" version="1381878876928" />
+  <component name="CodeStyleSchemeSettings" version="1381945903604" />
+  <component name="DaemonCodeAnalyzerSettings" version="1381878876928" />
+  <component name="DimensionService" version="1381950416959" />
+  <component name="EditorColorsManagerImpl" version="1381878876928" />
+  <component name="EditorSettings" version="1381878876929" />
+  <component name="Encoding" version="1381878876929" />
+  <component name="ExportableFileTemplateSettings" version="1381878913443" />
+  <component name="FeatureUsageStatistics" version="1381950416960" />
+  <component name="FileBasedIndex" version="1381878876930" />
+  <component name="FileTypeManager" version="1381878876936" />
+  <component name="FindSettings" version="1381945575398" />
+  <component name="GeneralSettings" version="1381878876936" />
+  <component name="Git.Application.Settings" version="1381880444134" />
+  <component name="GithubSettings" version="1381936931117" />
+  <component name="GlobalAntConfiguration" version="1381878876937" />
+  <component name="HttpConfigurable" version="1381878876937" />
+  <component name="KeymapManager" version="1381878876937" />
+  <component name="LafManager" version="1381878876937" />
+  <component name="LanguageInjectionConfiguration" version="1381878876939" />
+  <component name="NodeRendererSettings" version="1381936931118" />
+  <component name="NotificationConfiguration" version="1381951136990" />
+  <component name="Osmorc" version="1381878876939" />
+  <component name="PasswordDatabase" version="1381880502154" />
+  <component name="PathMacrosImpl" version="1381878876939" />
+  <component name="PluginManagerConfigurable" version="1381878858846" />
+  <component name="ProjectManager" version="1381878876945" />
+  <component name="PropertiesComponent" version="1381936931125" />
+  <component name="RecentProjectsManager" version="1381878876945" />
+  <component name="Registry" version="1381878876945" />
+  <component name="SelectProjectTemplateSettings" version="1381878782502" />
+  <component name="StatisticsApplicationUsages" version="1381878876946" />
+  <component name="TodoConfiguration" version="1381878876947" />
+  <component name="UpdatesConfigurable" version="1381878876949" />
+  <component name="UsagesStatistic" version="1381878876949" />
+  <component name="VimSettings" version="1381951734265" />
+  <component name="WebServicesPluginSettings" version="1381878876956" />
+  <component name="WindowManager" version="1381956750302" />
+  <component name="XDebuggerSettings" version="1381936931127" />
+  <component name="XPathView.XPathViewPlugin" version="1381878876957" />
+  <component name="XSLT-Support.Configuration" version="1381878876957" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1381878913452" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1381878876957" />
 </versions>
 

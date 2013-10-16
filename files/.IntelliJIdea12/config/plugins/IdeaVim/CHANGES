@@ -4,6 +4,51 @@ The Changelog
 History of changes in IdeaVim for the IntelliJ platform.
 
 
+0.29, TBD
+---------
+
+A bugfix release.
+
+Bug fixes:
+
+* VIM-482 Fixed repeat buffer limits
+* VIM-91 Enable normal `<Enter>` handling for one-line editors
+* VIM-121 Don't move cursor while scrolling
+
+
+0.28, 2013-04-06
+----------------
+
+A bugfix release.
+
+Bug fixes:
+
+* VIM-478 Fixed reconfigure Vim keymap for user-defined base keymaps
+* VIM-479 Don't try to activate insert mode for diff view
+
+
+0.27, 2013-04-03
+----------------
+
+New Vim keymap generator creates better keymaps, especially for Mac OS X.
+Restart after reconfiguring the keymap is no longer required.
+
+Features:
+
+* VIM-92 Better Vim keymaps for Mac OS X
+* VIM-286 Ask if the plugin should enable repeating keys in Mac OS X
+
+Bug fixes:
+
+* VIM-42 Fixed code completion for the `.` command
+* VIM-421 Fixed `cw` on the last character in line
+* VIM-419 Fixed resetting cursor position after 'gt' and 'gT'
+* VIM-233 Fixed code completion for edits in visual block mode
+* VIM-404 Fixed `O` command at the first line
+* VIM-472 Fixed right selection in visual mode to be one char more
+* Fixed command window font size to match editor font size
+
+
 0.26, 2012-12-26
 ----------------
 
@@ -17,11 +62,11 @@ Features:
 * VIM-262 Support for paste from register in command mode
 * VIM-214 Key bindings for paste into command line
 * VIM-43 Added support for the last change position mark
-* VIM-177 Added <C-]> and <C-T> to the keymap
+* VIM-177 Added `<C-]>` and `<C-T>` to the keymap
 
 Bug fixes:
 
-* VIM-302 Fixed tab switching order for 'gt' and 'gT'
+* VIM-302 Fixed tab switching order for `gt` and `gT`
 
 
 0.25, 2012-12-19

@@ -26,7 +26,7 @@ set preserveindent " preserves previous indentation as much as possible
 set autowriteall " auto save file on certain Vim commands
 
 " spelling
-set spell " spelling is important
+" set spell " spelling is important
 
 " swap files
 set noswapfile " swap files are annoying

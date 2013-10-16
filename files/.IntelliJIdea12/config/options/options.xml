@@ -1,29 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="NewModule_or_Project.wizard.0.0.1600.900" x="493" y="52" />
     <location key="#Browse_Repositories.0.27.1920.1053" x="535" y="117" />
+    <location key="findTextDialog.0.0.1600.900" x="594" y="216" />
+    <location key="git4idea.push.GitPushDialog.0.0.1600.900" x="459" y="196" />
+    <location key="#Framework_Integration.0.0.1600.900" x="652" y="392" />
     <location key="FileChooserDialogImpl.0.27.1920.1053" x="738" y="166" />
     <location key="NewModule_or_Project.wizard.0.27.1920.1053" x="569" y="130" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="574" y="124" />
     <location key="OptionsEditor.0.27.1920.1053" x="339" y="33" />
+    <location key="OptionsEditor.0.0.1600.900" x="183" y="20" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1600.900" x="625" y="398" />
+    <location key="CommitChangelistDialog.0.0.1600.900" x="461" y="136" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="795" y="251" />
+    <size key="NewModule_or_Project.wizard.0.0.1600.900" width="596" height="662" />
     <size key="#Browse_Repositories.0.27.1920.1053" width="826" height="688" />
+    <size key="findTextDialog.0.0.1600.900" width="404" height="463" />
+    <size key="git4idea.push.GitPushDialog.0.0.1600.900" width="677" height="560" />
+    <size key="#Framework_Integration.0.0.1600.900" width="289" height="139" />
     <size key="FileChooserDialogImpl.0.27.1920.1053" width="768" height="589" />
     <size key="NewModule_or_Project.wizard.0.27.1920.1053" width="766" height="662" />
+    <size key="FileChooserDialogImpl.0.0.1600.900" width="426" height="517" />
     <size key="OptionsEditor.0.27.1920.1053" width="1226" height="856" />
+    <size key="OptionsEditor.0.0.1600.900" width="1226" height="855" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1600.900" width="402" height="126" />
+    <size key="CommitChangelistDialog.0.0.1600.900" width="682" height="693" />
   </component>
   <component name="LafManager">
-    <laf class-name="com.incors.plaf.alloy.AlloyIdea" />
+    <laf class-name="idea.dark.laf.classname" />
   </component>
   <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="Non-Project Files" value="Yellow" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="installation.uid" value="83a02d13-fa41-4700-9ed1-5817e958b26d" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="installation.uid" value="83a02d13-fa41-4700-9ed1-5817e958b26d" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="file.colors.enable.tests" value="Green" />
     <property name="select.template.proportion" value="0.3" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/lib/yii&#10;/home/dillon/Code/php/skysponder" />
+    <property name="Tests" value="Green" />
+    <property name="default.storage.format" value=".idea (directory based)" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
 </application>
 

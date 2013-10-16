@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="flex-build-configurations" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="org.osmorc.EquinoxRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/dillon/Code/php/skysponder/.idea/compiler.xml" timestamp="1381878775000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/copyright/profiles_settings.xml" timestamp="1381877953000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/encodings.xml" timestamp="1381877953000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/misc.xml" timestamp="1381878858000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/modules.xml" timestamp="1381878775000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/scopes/scope_settings.xml" timestamp="1381877953000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/uiDesigner.xml" timestamp="1381877953000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/vcs.xml" timestamp="1381877977000" />
+    <file path="/home/dillon/Code/php/skysponder/.idea/workspace.xml" timestamp="1381878858000" />
+    <file path="/home/dillon/Code/php/skysponder/skysponder.iml" timestamp="1381878775000" />
+  </project-files>
+</conversion>
+
