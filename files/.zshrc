@@ -32,7 +32,7 @@ export UPDATE_ZSH_DAYS=13
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git rails3 ruby perl rake coffee debian python django command-not-found vi-mode virtualenvwrapper pip cp npm node)
+plugins=(git rails ruby perl rake coffee debian python django command-not-found vi-mode virtualenvwrapper pip cp npm node)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -49,3 +49,6 @@ export PERL_MB_OPT="--install_base /home/dillon/perl5"
 export PERL_MM_OPT="INSTALL_BASE=/home/dillon/perl5"
 export PERL5LIB="/home/dillon/perl5/lib/perl5/x86_64-linux-gnu-thread-multi:/home/dillon/perl5/lib/perl5"
 export PATH="/home/dillon/perl5/bin:$PATH"
+
+# Term/Vim Stuff
+export TERM="xterm-256color"

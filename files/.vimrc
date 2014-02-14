@@ -6,7 +6,8 @@ filetype plugin indent on " indentation for plugins
 " colors
 syntax on " colors make coding easier to read
 set background="dark" " darker colors
-colorscheme oceandeep " color theme
+set t_Co=256
+colorscheme jellybeans " color theme
 
 " tabs
 retab " apply indentation/tab rules to file on open
@@ -52,6 +53,12 @@ let g:syntastic_c_checkers=['gcc', 'make', 'checkpatch', 'sparse', 'ycm'] " c
 let g:syntastic_css_checkers=['csslint'] " css
 let g:syntastic_javascript_checkers=['closurecompiler', 'gjslint', 'jshint', 'jslint', 'jsl'] " JavaScript
 
+" HTML 5
+let g:html5_event_handler_attributes_complete = 1
+let g:html5_rdfa_attributes_complete = 1
+let g:html5_microdata_attributes_complete = 1
+let g:html5_aria_attributes_complete = 1
+
 " custom additions
 autocmd BufNewFile,BufRead *.php setfiletype html.php
 
@@ -60,3 +67,11 @@ inoremap <C-P> <ESC>:call PhpDocSingle()<CR>
 nnoremap <C-P> :call PhpDocSingle()<CR> 
 vnoremap <C-P> :call PhpDocRange()<CR> 
 nnoremap <C-H> :Php <q-args> 
+
+" editing
+highlight ColorColumn ctermbg=Black
+let &colorcolumn="81,".join(range(120,999),",") " add a line at 81 for warning and 120 super warning
+set nowrap " wrapping is ugly yo
+
+" NERDTree
+let NERDTreeShowHidden=1
